@@ -1,8 +1,8 @@
 # Modulo2AprendizajeMaquina
 
-Codigo de regresion logistica
+Código de regresión logística
 
-° El codigo ejecutable principal se denomina como main.py
+° El código ejecutable principal se denomina como main.py
 
 ° Archivos que se interrelacionan se encuentran cada una en una carpeta.
 
